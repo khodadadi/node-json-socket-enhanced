@@ -1,0 +1,38 @@
+{
+  "name": "json-socket-enhanced",
+  "description": "An easy way to send JSON over TCP using sockets.",
+  "main": "./lib/json-socket",
+  "author": {
+    "name": "Sebastian Seilund"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/khodadadi/node-json-socket-enhanced.git"
+  },
+
+  "maintainers": [
+    {
+      "name": "Mohammad Khodadadi",
+      "email": "mohammad.khodadadi@hotmail.com"
+
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/khodadadi/node-json-socket-enhanced/raw/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "dependencies": {
+    "async": "0.1.x"
+  },
+
+
+  "homepage": "https://github.com/khodadadi/node-json-socket-enhanced",
+  "_id": "json-socket-enhanced@0.0.1",
+  "_resolved": "http://registry.npmjs.org/json-socket-enahnced/-/json-socket-enhanced-0.0.1.tgz"
+}
