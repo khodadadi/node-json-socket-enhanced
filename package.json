@@ -5,7 +5,7 @@
   "author": {
     "name": "Sebastian Seilund"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "http://github.com/khodadadi/node-json-socket-enhanced.git"
